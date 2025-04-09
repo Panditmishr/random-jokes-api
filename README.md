@@ -9,4 +9,4 @@ This is a simple Express-based API that returns random jokes.
    ```bash
    npm install
 Run the server: node index.js on bash
-Visit http://localhost:3000/api/jokes/random to get a random joke.
+Visit http://localhost:4000/api/jokes/random to get a random joke.
